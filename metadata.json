@@ -1,0 +1,6 @@
+{
+  "name": "Smart Age & Zodiac Calculator",
+  "description": "Accurate age calculator, birthday countdown, extensive chronology tables, and bilingual Western Tropical Zodiac insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

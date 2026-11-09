@@ -1,0 +1,56 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Default Palette — Royal Indigo, Luminous Violet & Subtle Gold
+val LightBackground = Color(0xFFF8FAFC)
+val LightSurface = Color(0xFFFFFFFF)
+val LightSurfaceVariant = Color(0xFFF1F5F9)
+val LightPrimary = Color(0xFF3730A3)
+val LightOnPrimary = Color(0xFFFFFFFF)
+val LightPrimaryContainer = Color(0xFFE0E7FF)
+val LightOnPrimaryContainer = Color(0xFF1E1B4B)
+val LightSecondary = Color(0xFF6D28D9)
+val LightOnSecondary = Color(0xFFFFFFFF)
+val LightSecondaryContainer = Color(0xFFEDE9FE)
+val LightOnSecondaryContainer = Color(0xFF2E1065)
+val LightTertiary = Color(0xFFD97706)
+val LightOnTertiary = Color(0xFFFFFFFF)
+val LightTertiaryContainer = Color(0xFFFEF3C7)
+val LightOnTertiaryContainer = Color(0xFF78350F)
+val LightOutline = Color(0xFFCBD5E1)
+val LightOutlineVariant = Color(0xFFE2E8F0)
+
+val DarkBackground = Color(0xFF0B1120)
+val DarkSurface = Color(0xFF151F32)
+val DarkSurfaceVariant = Color(0xFF1E293B)
+val DarkPrimary = Color(0xFF818CF8)
+val DarkOnPrimary = Color(0xFF1E1B4B)
+val DarkPrimaryContainer = Color(0xFF312E81)
+val DarkOnPrimaryContainer = Color(0xFFE0E7FF)
+val DarkSecondary = Color(0xFFC084FC)
+val DarkOnSecondary = Color(0xFF3B0764)
+val DarkSecondaryContainer = Color(0xFF4C1D95)
+val DarkOnSecondaryContainer = Color(0xFFF3E8FF)
+val DarkTertiary = Color(0xFFFBBF24)
+val DarkOnTertiary = Color(0xFF451A03)
+val DarkTertiaryContainer = Color(0xFF78350F)
+val DarkOnTertiaryContainer = Color(0xFFFEF3C7)
+val DarkOutline = Color(0xFF334155)
+val DarkOutlineVariant = Color(0xFF1E293B)
+
+// Celestial Gold Bonus Palette
+val GoldLightPrimary = Color(0xFFB45309)
+val GoldLightPrimaryContainer = Color(0xFFFEF3C7)
+val GoldLightSecondary = Color(0xFF4338CA)
+val GoldDarkPrimary = Color(0xFFFBBF24)
+val GoldDarkPrimaryContainer = Color(0xFF78350F)
+val GoldDarkSecondary = Color(0xFFA5B4FC)
+
+// Cosmic Violet Bonus Palette
+val VioletLightPrimary = Color(0xFF7C3AED)
+val VioletLightPrimaryContainer = Color(0xFFEDE9FE)
+val VioletLightSecondary = Color(0xFFDB2777)
+val VioletDarkPrimary = Color(0xFFD8B4FE)
+val VioletDarkPrimaryContainer = Color(0xFF581C87)
+val VioletDarkSecondary = Color(0xFFF472B6)

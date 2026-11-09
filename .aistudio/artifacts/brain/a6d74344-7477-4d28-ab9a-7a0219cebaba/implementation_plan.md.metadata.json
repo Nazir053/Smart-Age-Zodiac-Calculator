@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for modernizing the 3-language switcher (English, Bangla, Hindi) into a segmented pill control with script badges, zooming in and enlarging the app logo on the Home header and adaptive launcher icon, and resolving all Gradle/compiler warnings.",
+  "updatedAt":  "2026-11-09T13:26:33.921122300Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Smart Age &amp; Zodiac Calculator</string>
+    <string name="app_subtitle">Chronology &amp; Celestial Intelligence</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_age_details">Age Details</string>
+    <string name="nav_zodiac">Zodiac</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+    <string name="btn_calculate_age">Calculate Age</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_copy_all">Copy All Information</string>
+    <string name="btn_share_results">Share Results</string>
+    <string name="btn_share_card">Share Card Image</string>
+    <string name="error_future_date">Future birth dates are not allowed. Please select today or an earlier date.</string>
+    <string name="error_invalid_date">Please select a valid date of birth.</string>
+</resources>
